@@ -164,7 +164,7 @@ You will get a preprocessed dataset in `database/cityscapes` and a mapping table
 If you use this code for your research, please cite our [paper](https://arxiv.org/pdf/2003.08936).
 ```
 @inproceedings{li2020gan,
-  title={GAN Compression: Learning Efficient Architectures for Conditional GANs},
+  title={GAN Compression: Efficient Architectures for Interactive Conditional GANs},
   author={Li, Muyang and Lin, Ji and Ding, Yaoyao and Liu, Zhijian and Zhu, Jun-Yan and Han, Song},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2020}
